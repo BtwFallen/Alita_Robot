@@ -1,1 +1,1 @@
-web: go run -m alita
+worker: bin/alita
