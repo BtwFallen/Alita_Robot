@@ -1,1 +1,1 @@
-worker: bin/alita
+web: /app/alita
