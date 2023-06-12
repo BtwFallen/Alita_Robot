@@ -1,1 +1,1 @@
-web: /app/alita
+worker: go run main.go
