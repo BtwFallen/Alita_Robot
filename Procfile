@@ -1,1 +1,1 @@
-go run main.go
+web: /app/Alita_Robot
