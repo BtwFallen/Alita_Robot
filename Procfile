@@ -1,1 +1,1 @@
-web: /app/Alita_Robot
+web: go run -m alita
